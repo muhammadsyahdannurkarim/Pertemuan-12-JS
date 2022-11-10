@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(to right top, #000000, #54505e);
+}
+
+.text{
+    color: white;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    margin-top: 0;
+    background-color: #020202;
+    font-family: "roboto", sans-serif;
+    padding: 20px 10px;
+}
+h6{
+    color: white;
+}
+
+.radio{
+    color: white;
+    margin-bottom: 5px;
+}
+
+.alamat{
+    color: white;
+    border-radius: px;
+}
